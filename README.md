@@ -1,12 +1,6 @@
 # tp1_pdi
 Trabajo Práctico N°1 de Procesamiento de Imágenes
 
-Integrantes:
--Mateo Gravi Fiorino
--Alejo Lo Menzo
--Tomás Navarro Miñon
--Ramiro Sagrera
-
 ## Ejercicio 1: Histograma y Ecualización
 Este ejercicio utiliza la biblioteca OpenCV para procesar imágenes y realizar la ecualización local del histograma.
 ### Requisitos previos
